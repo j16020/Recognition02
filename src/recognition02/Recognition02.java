@@ -14,7 +14,7 @@ public class Recognition02 {
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
 		VisualRecognition service = new VisualRecognition("2018-03-19");
-		service.setApiKey("3e87906cfed8e336b0a33d10c5fd73e020234fa9");
+		service.setApiKey("j16020");
 		MySQL mysql = new MySQL();
 
 		DetectFacesOptions detectFacesOptions = null;
